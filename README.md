@@ -1,2 +1,2 @@
 # testest
-this repository use for my daily study:-)
+this repository use for my daily study:)
