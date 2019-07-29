@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    # 此次所创建app的设置
     'hello.apps.HelloConfig',
     'django.contrib.admin',
     'django.contrib.auth',
