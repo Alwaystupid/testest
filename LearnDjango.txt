@@ -1,0 +1,8 @@
+在先行创建project与app的情况下，
+通过views.py创建一个函数（用来在网页上显示信息，一般使用httpresponse）
+再在urls.py中引用views.py模块中的函数，这样在浏览器中打开网页就可以看到views中的信息
+如果想要在网页中显示更加丰富的内容需要templates
+[ 在template下创建html文件，我使用了模板变量{{ }}，这个变量一般在views中，使用
+  字典变量定义并存储。]
+
+"数据库迁移文件"
